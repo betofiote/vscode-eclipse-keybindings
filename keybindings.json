@@ -4,5 +4,5 @@
 	{ "key": "ctrl+d", "command": "editor.action.cutLines","when": "editorTextFocus" },
 	{ "key": "ctrl+alt+down","command": "editor.action.copyLinesDownAction", "when": "editorTextFocus" },
 	{ "key": "ctrl+alt+up", "command": "editor.action.copyLinesUpAction", "when": "editorTextFocus" },
-	{ "key": "ctrl+shift+r",  "command": "editor.action.rename","when": "editorTextFocus" }
+	{ "key": "shift+alt+r","command": "editor.action.rename","when": "editorTextFocus" }
 ]
