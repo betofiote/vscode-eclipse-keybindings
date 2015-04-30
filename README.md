@@ -1,5 +1,5 @@
 # vscode-eclipse-keybindings
-eclipse shortcuts on vscode.
+Use Eclipse shortcut on VSCode.
 
 
 
