@@ -1,4 +1,5 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-	{ "key": "alt+/","command": "editor.action.triggerSuggest","when": "editorTextFocus" }
+	{ "key": "alt+/",  "command": "editor.action.triggerSuggest","when": "editorTextFocus" },
+	{ "key": "ctrl+d", "command": "editor.action.cutLines","when": "editorTextFocus" }	
 ]
