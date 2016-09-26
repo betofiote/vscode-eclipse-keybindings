@@ -3,4 +3,4 @@ Use Eclipse shortcut on VSCode.
 
 
 
-https://code.visualstudio.com/Docs/customization
+https://code.visualstudio.com/docs/customization/keybindings
